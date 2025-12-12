@@ -1,7 +1,5 @@
 ## System Architecture 초안
 
-## System Architecture
-
 - User (Web / App)
   - Frontend (Next.js)
     - Communication
